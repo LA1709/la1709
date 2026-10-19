@@ -9,8 +9,8 @@ Building enterprise systems, analytics platforms, AI-enabled solutions, and prod
 </p>
 
 <p align="center">
-  <a href="https://la1709.github.io">Portfolio</a> •
-  <a href="https://linkedin.com/in/lakshay-agrawal">LinkedIn</a>
+  <a href="https://la1709.github.io" target="_blank">Portfolio</a> •
+  <a href="https://linkedin.com/in/lakshay-agrawal" target="_blank">LinkedIn</a>
 </p>
 
 <p align="center">

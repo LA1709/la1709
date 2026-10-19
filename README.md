@@ -18,7 +18,7 @@ Building enterprise systems, analytics platforms, AI-enabled solutions, and prod
 </p>
 
 <p align="center">
-<img width="850" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/skills.svg">
+<img width="850" src="https://raw.githubusercontent.com/la1709/la1709/main/assets/skills.svg">
 </p>
 
 ---

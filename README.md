@@ -14,7 +14,7 @@ Building enterprise systems, analytics platforms, AI-enabled solutions, and prod
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=MBA+%40+NUS;Digital+Transformation;AI+Enablement;Product+Management;Software+Engineering;Analytics+%26+Business+Intelligence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=3000&pause=1000&color=A468A0&center=true&vCenter=true&width=435&lines=MBA+%40+NUS;Digital+Transformation;AI+Enablement;Product+Management;Software+Engineering;Analytics+%26+Business+Intelligence" />
 </p>
 
 <p align="center">

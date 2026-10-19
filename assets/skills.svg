@@ -1,0 +1,91 @@
+<svg fill="none" viewBox="0 0 900 260" width="900" height="260" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+
+<style>
+.tags{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+margin:8px 0;
+font-family:Inter,Segoe UI,sans-serif;
+}
+
+.tag{
+background:#eef6ff;
+border:1px solid #2563eb;
+color:#2563eb;
+padding:6px 12px;
+margin:4px;
+border-radius:999px;
+font-size:13px;
+font-weight:600;
+white-space:nowrap;
+}
+</style>
+
+<div class="tags">
+<div class="tag">Python</div>
+<div class="tag">TypeScript</div>
+<div class="tag">JavaScript</div>
+<div class="tag">Java</div>
+<div class="tag">Go</div>
+<div class="tag">SQL</div>
+<div class="tag">C/C++</div>
+</div>
+
+<div class="tags">
+<div class="tag">AI</div>
+<div class="tag">LLMs</div>
+<div class="tag">Machine Learning</div>
+<div class="tag">Agentic Workflows</div>
+<div class="tag">Prompt Engineering</div>
+<div class="tag">Analytics</div>
+<div class="tag">Data Engineering</div>
+</div>
+
+<div class="tags">
+<div class="tag">React</div>
+<div class="tag">Next.js</div>
+<div class="tag">Node.js</div>
+<div class="tag">REST APIs</div>
+<div class="tag">System Design</div>
+<div class="tag">Software Engineering</div>
+</div>
+
+<div class="tags">
+<div class="tag">Power BI</div>
+<div class="tag">DAX</div>
+<div class="tag">Power Query</div>
+<div class="tag">Dashboard Design</div>
+<div class="tag">Business Intelligence</div>
+</div>
+
+<div class="tags">
+<div class="tag">Power Apps</div>
+<div class="tag">Power Automate</div>
+<div class="tag">SharePoint</div>
+<div class="tag">Microsoft 365</div>
+<div class="tag">Power Platform</div>
+</div>
+
+<div class="tags">
+<div class="tag">AWS</div>
+<div class="tag">Azure</div>
+<div class="tag">Docker</div>
+<div class="tag">Git</div>
+<div class="tag">GitHub Actions</div>
+</div>
+
+<div class="tags">
+<div class="tag">Product Management</div>
+<div class="tag">Digital Transformation</div>
+<div class="tag">Automation</div>
+<div class="tag">Business Strategy</div>
+<div class="tag">Process Governance</div>
+<div class="tag">Project Management</div>
+</div>
+
+</div>
+</foreignObject>
+</svg>

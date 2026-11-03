@@ -36,7 +36,7 @@ Building enterprise systems, analytics platforms, AI-enabled solutions, and prod
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=la1709&layout=compact&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=la1709&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
